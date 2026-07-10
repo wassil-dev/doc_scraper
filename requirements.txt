@@ -5,5 +5,5 @@ progressbar==2.5
 progressbar2==3.47.0
 python-utils==2.3.0
 six==1.14.0
-soupsieve==1.9.5
+soupsieve==2.8.4
 w3lib==1.21.0
